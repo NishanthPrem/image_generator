@@ -1,1 +1,1 @@
-Image Generator using KerasCV
+Image Generator using StableDiffusionPipeline.
